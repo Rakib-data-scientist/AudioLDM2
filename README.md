@@ -1,6 +1,6 @@
 # AudioLDM2
 
-Inspired by : https://arxiv.org/pdf/2308.05734v1.pdf
+
 
 
 1.
@@ -23,3 +23,6 @@ Inspired by : https://arxiv.org/pdf/2308.05734v1.pdf
 ![AudioLDM2-A-Unified-Approach-to-Audio-Generation_page-0009](https://github.com/Rakib-data-scientist/AudioLDM2/assets/137823730/11ccf00a-a4ed-4a3f-ae70-7998f57f2798)
 10.
 ![AudioLDM2-A-Unified-Approach-to-Audio-Generation_page-0010](https://github.com/Rakib-data-scientist/AudioLDM2/assets/137823730/02480b2a-24f2-4b33-a92d-3aa29cf1b09b)
+
+
+* Inspired by : https://arxiv.org/pdf/2308.05734v1.pdf
